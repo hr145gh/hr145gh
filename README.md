@@ -20,4 +20,4 @@ A PDF version of my resume is available in this repository: [`Harshit_NIT_Allaha
 
 ## 📬 Contact
 
-Feel free to reach out via the contact details on the website or connect with me on [LinkedIn](#) · [GitHub](#) · [Email](#)
+Feel free to reach out via the contact details on the website or connect with me on [LinkedIn](#https://www.linkedin.com/in/harshit-raj-834188229/) · [GitHub](#https://github.com/hr145gh) · [Email](#harshitraj016b@gmail.com)
