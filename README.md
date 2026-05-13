@@ -11,13 +11,17 @@ A personal resume website showcasing my background, skills, experience, and proj
 
 ## 🌐 Live Website
 
-> Add your deployed link here (e.g., GitHub Pages, Netlify, Vercel)
+🔗 [harshitrajpf.netlify.app](https://harshitrajpf.netlify.app/)
 
 ## 📄 Resume PDF
 
 A PDF version of my resume is available in this repository: [`Harshit_NIT_Allahabad_Resume.pdf`](./Harshit_NIT_Allahabad_Resume.pdf)
 
-
 ## 📬 Contact
 
-Feel free to reach out via the contact details on the website or connect with me on [LinkedIn](#https://www.linkedin.com/in/harshit-raj-834188229/) · [GitHub](#https://github.com/hr145gh) · [Email](#harshitraj016b@gmail.com)
+Feel free to reach out via the contact details on the website or connect with me on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-raj-834188229/) &nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hr145gh) &nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:harshitraj016b@gmail.com)
+
