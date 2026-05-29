@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Developer** focused on building scalable web applications. Currently pursuing my **MCA at MNNIT Allahabad** (All India Rank **145** in NIMCET 2025), I specialize in building robust web applications using **MongoDB, Node.js, Express.js, and React**. My approach combines technical proficiency with problem-solving abilities to create efficient, user-centered solutions. I thrive in collaborative environments and am constantly exploring new technologies in web development. My goal is to contribute to innovative projects that make a meaningful impact.
+I’m a passionate Competitive Programmer with a strong interest in problem-solving and the mathematical concepts behind algorithms and data structures. Currently pursuing my MCA at Motilal Nehru National Institute of Technology Allahabad, I enjoy tackling challenging coding problems that enhance analytical thinking, optimization skills, and algorithmic efficiency. My enthusiasm for competitive programming is driven by a deep appreciation for logical reasoning and mathematics, which continuously motivates me to learn and improve. I actively seek opportunities to strengthen my problem-solving abilities and apply them to real-world computational challenges.
 
 ```yaml
 Name    : Harshit Raj
