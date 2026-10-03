@@ -22,12 +22,12 @@ I’m constantly learning, improving my problem-solving abilities, and exploring
 
 ### `CONNECT WITH ME`
 
-[![Codelio](https://img.shields.io/badge/Codolio-111111?style=for-the-badge\&logo=codeforces\&logoColor=00FF00)](YOUR_CODOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin\&logoColor=00FF00)](YOUR_LINKEDIN_LINK)
-[![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge\&logo=discord\&logoColor=00FF00)](YOUR_DISCORD_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge\&logo=gmail\&logoColor=00FF00)](mailto:YOUR_EMAIL)
-[![Resume](https://img.shields.io/badge/Resume-111111?style=for-the-badge\&logo=readthedocs\&logoColor=00FF00)](YOUR_RESUME_LINK)
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-111111?style=for-the-badge\&logo=monkeytype\&logoColor=00FF00)](YOUR_MONKEYTYPE_LINK)
+[![Codolio](https://img.shields.io/badge/Codolio-111111?style=for-the-badge\&logo=code\&logoColor=00FF00)](https://codolio.com/profile/hr145co)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin\&logoColor=00FF00)](https://www.linkedin.com/in/harshitraj016b/)
+[![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge\&logo=discord\&logoColor=00FF00)](https://discord.com/users/dragthefly)
+[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge\&logo=gmail\&logoColor=00FF00)](mailto:harshitraj016b@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-111111?style=for-the-badge\&logo=readthedocs\&logoColor=00FF00)](./NIT_A_Resume_HarshitRaj.pdf)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-111111?style=for-the-badge\&logo=monkeytype\&logoColor=00FF00)](https://monkeytype.com/account)
 
 </div>
 
