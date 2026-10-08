@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://fontmeme.com/temporary/c39c19b97132cf4e327c5c2e33f7bac9.png" alt="Harshit Raj">
+<img src="./assets/profile.png" alt="Harshit Raj" width="400">
 
 ### `Full Stack Developer (MERN Stack)`
 
@@ -26,7 +26,7 @@ I’m constantly learning, improving my problem-solving abilities, and exploring
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin\&logoColor=00FF00)](https://www.linkedin.com/in/harshitraj016b/)
 [![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge\&logo=discord\&logoColor=00FF00)](https://discord.com/users/dragthefly)
 [![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge\&logo=gmail\&logoColor=00FF00)](mailto:harshitraj016b@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-111111?style=for-the-badge\&logo=readthedocs\&logoColor=00FF00)](./NIT_A_Resume_HarshitRaj.pdf)
+[![Resume](https://img.shields.io/badge/Resume-111111?style=for-the-badge\&logo=readthedocs\&logoColor=00FF00)](.assets/resume.pdf)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-111111?style=for-the-badge\&logo=monkeytype\&logoColor=00FF00)](https://monkeytype.com/account)
 
 </div>
